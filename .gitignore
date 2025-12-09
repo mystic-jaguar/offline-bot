@@ -1,0 +1,34 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Node.js / React
+frontend/node_modules/
+*.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ollama / Models
+*.gguf
+*.bin
+*.ckpt
+models/
+.ollama/
+/backend/models/
+/backend/static/models/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.tmp
+
+# Build folders
+frontend/build/
+frontend/dist/
+backend/__pycache__/

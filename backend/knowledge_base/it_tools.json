@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What IT tools does ThinkNest Solutions use?",
+    "answer": "ThinkNest Solutions uses several IT tools and platforms: Jira for project tracking and sprint planning, Slack for team communication, GitHub for code repository and version control, Confluence for internal documentation, Google Workspace for emails and collaboration, Zoom/Teams for meetings, and an ERP System for HR and operational processes."
+  },
+  {
+    "question": "What is the code review process?",
+    "answer": "At ThinkNest Solutions, code reviews are mandatory before merging to the main branch. All code must be reviewed by team members to ensure quality, maintainability, and adherence to coding standards. This process helps maintain high code quality across all projects."
+  },
+  {
+    "question": "What development methodology does ThinkNest Solutions use?",
+    "answer": "ThinkNest Solutions follows Agile Scrum methodology for software development. This includes daily stand-ups, weekly sprint reviews, and iterative development cycles. All team members are expected to participate in these Agile practices."
+  },
+  {
+    "question": "How do I access GitHub?",
+    "answer": "GitHub is used at ThinkNest Solutions for code repository and version control. Contact IT support for access credentials and training on how to use GitHub for code management, branching, and collaboration with the development team."
+  },
+  {
+    "question": "What is Confluence used for?",
+    "answer": "Confluence is ThinkNest Solutions' internal documentation platform. It's used for storing project documentation, procedures, policies, and knowledge sharing. All team members should contribute to and maintain relevant documentation on Confluence."
+  },
+  {
+    "question": "How do I submit expense reimbursements?",
+    "answer": "Expense and reimbursement submissions at ThinkNest Solutions are handled through the ERP system. Contact HR for detailed procedures on how to submit expenses and reimbursement requests through the company's ERP platform."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Who should I contact for IT issues?",
+    "answer": "IT Support can be reached at it-support@company.com or extension 2001. For urgent technical issues, call the IT Helpdesk at +1-555-0200. Office hours are 8 AM to 7 PM, Monday to Friday."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Reset your password at password.company.com or contact IT Support. You'll need your employee ID and email address. Password resets are processed within 2 hours during business hours."
+  },
+  {
+    "question": "What software is available on company computers?",
+    "answer": "Company computers include Microsoft Office Suite, Adobe Creative Cloud, project management tools, and industry-specific software. Request additional software through the IT portal with manager approval."
+  },
+  {
+    "question": "How do I connect to company WiFi?",
+    "answer": "Connect to 'Company-Guest' network using your employee credentials. For secure access, use 'Company-Secure' with VPN. Contact IT Support if you have connection issues."
+  },
+  {
+    "question": "What is the IT equipment policy?",
+    "answer": "IT equipment is provided based on job requirements. Laptops, monitors, and peripherals are company property. Report lost or damaged equipment immediately. Personal equipment use requires IT approval."
+  },
+  {
+    "question": "How do I request new IT equipment?",
+    "answer": "Submit equipment requests through the IT portal with manager approval. Include justification and business need. IT will evaluate and provide equipment within 5 business days."
+  },
+  {
+    "question": "What is the data security policy?",
+    "answer": "All company data must be stored on company systems. Personal cloud storage is prohibited. Use strong passwords and enable two-factor authentication. Report security incidents immediately to IT."
+  },
+  {
+    "question": "How do I access company email?",
+    "answer": "Access company email through Outlook Web Access or the Outlook desktop application. Use your employee credentials to log in. Contact IT Support if you have login issues or need email configuration."
+  },
+  {
+    "question": "What is the VPN policy?",
+    "answer": "VPN access is provided for remote work and secure connections. Use company-approved VPN software and follow security protocols. Contact IT Support for VPN setup and troubleshooting."
+  },
+  {
+    "question": "How do I backup my work?",
+    "answer": "All work should be saved to company network drives or cloud storage. Personal USB drives are not permitted for work data. IT provides automated backup solutions for critical data."
+  },
+  {
+    "question": "What is the internet usage policy?",
+    "answer": "Internet usage should be work-related during business hours. Personal browsing is allowed during breaks. Prohibited activities include downloading unauthorized software, accessing inappropriate content, or excessive personal use."
+  },
+  {
+    "question": "How do I report IT security incidents?",
+    "answer": "Report security incidents immediately to IT Support via email or phone. Include details of the incident, affected systems, and any suspicious activities. Do not attempt to resolve security issues independently."
+  },
+  {
+    "question": "What is the software installation policy?",
+    "answer": "Only IT-approved software can be installed on company computers. Submit software requests through the IT portal with business justification. Unauthorized software installation is prohibited and may result in disciplinary action."
+  },
+  {
+    "question": "How do I access company systems remotely?",
+    "answer": "Remote access is provided through VPN and approved remote desktop solutions. Follow security protocols and use company-approved devices. Contact IT Support for remote access setup and troubleshooting."
+  },
+  {
+    "question": "What is the mobile device policy?",
+    "answer": "Company mobile devices are provided for business use. Personal devices can be enrolled in Mobile Device Management (MDM) for secure access to company resources. Contact IT Support for device setup and policies."
+  },
+  {
+    "question": "How do I get technical training?",
+    "answer": "IT provides technical training sessions, documentation, and online resources. Request specific training through the IT portal or contact IT Support. Training covers software usage, security practices, and system procedures."
+  }
+]

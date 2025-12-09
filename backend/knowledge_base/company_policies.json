@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What are the company policies?",
+    "answer": "ThinkNest Solutions has comprehensive policies covering Code of Conduct, Anti-Harassment, Equal Opportunity, Data Protection, Information Security, Social Media, Travel, and Expense policies. All policies are available on the company intranet and should be reviewed during onboarding."
+  },
+  {
+    "question": "What is the code of conduct?",
+    "answer": "The Code of Conduct outlines ethical standards, professional behavior, integrity requirements, and compliance obligations. All employees must adhere to these standards in all business activities and interactions."
+  },
+  {
+    "question": "What is the anti-harassment policy?",
+    "answer": "ThinkNest Solutions maintains a zero-tolerance policy for harassment, discrimination, or inappropriate behavior. All employees have the right to a safe, respectful work environment. Report any incidents to HR immediately."
+  },
+  {
+    "question": "What is the equal opportunity policy?",
+    "answer": "ThinkNest Solutions is committed to equal opportunity employment regardless of race, gender, religion, age, disability, or other protected characteristics. We promote diversity and inclusion in all aspects of employment."
+  },
+  {
+    "question": "What is the data protection policy?",
+    "answer": "All employees must protect confidential company and client data. Follow data handling procedures, use secure systems, and report any data breaches immediately. Personal data must be handled in compliance with applicable laws."
+  },
+  {
+    "question": "What is the information security policy?",
+    "answer": "Information security policies cover password requirements, system access, data encryption, secure communications, and incident reporting. All employees must follow security protocols to protect company information."
+  },
+  {
+    "question": "What is the social media policy?",
+    "answer": "Employees should use social media responsibly and not disclose confidential information. Personal opinions should not be attributed to the company. Follow guidelines for professional social media use and client interactions."
+  },
+  {
+    "question": "What is the travel policy?",
+    "answer": "Travel policies cover business travel approval, expense limits, booking procedures, accommodation standards, and reimbursement processes. All business travel must be pre-approved and follow company guidelines."
+  },
+  {
+    "question": "What is the expense policy?",
+    "answer": "Expense policies define allowable expenses, approval limits, documentation requirements, and reimbursement procedures. All expenses must be business-related, properly documented, and approved according to company guidelines."
+  },
+  {
+    "question": "What is the confidentiality policy?",
+    "answer": "Employees must maintain confidentiality of company information, client data, and proprietary knowledge. Confidentiality obligations continue even after employment ends. Sign confidentiality agreements as required."
+  },
+  {
+    "question": "What is the conflict of interest policy?",
+    "answer": "Employees must avoid conflicts of interest between personal and company interests. Disclose any potential conflicts to management. Avoid activities that could compromise objectivity or create divided loyalties."
+  },
+  {
+    "question": "What is the intellectual property policy?",
+    "answer": "All work-related intellectual property belongs to the company. Employees must protect company IP and not use it for personal gain. Report any IP violations or unauthorized use immediately."
+  },
+  {
+    "question": "What is the disciplinary policy?",
+    "answer": "Disciplinary policies outline procedures for addressing policy violations, performance issues, and misconduct. Progressive discipline includes warnings, suspension, and termination as appropriate. All disciplinary actions follow due process."
+  },
+  {
+    "question": "What is the grievance policy?",
+    "answer": "Employees can raise grievances through formal channels including direct supervisors, HR, or anonymous reporting systems. All grievances are investigated fairly and resolved promptly according to company procedures."
+  },
+  {
+    "question": "What is the performance management policy?",
+    "answer": "Performance management includes regular reviews, goal setting, feedback sessions, and development planning. Performance is evaluated based on objectives, competencies, and company values. Poor performance may result in improvement plans or disciplinary action."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "question": "What departments are in the company?",
+    "answer": "Our company has Engineering, Sales, Marketing, HR, Finance, Operations, and Customer Success departments. Each department has specific roles and responsibilities that contribute to our overall success."
+  },
+  {
+    "question": "Who is the CEO?",
+    "answer": "Jennifer Martinez is our CEO. She has 15 years of industry experience and leads our strategic vision. She can be reached at jennifer.martinez@company.com for company-wide announcements."
+  },
+  {
+    "question": "What is the company structure?",
+    "answer": "We're organized into departments with clear reporting structures. Each department has a VP who reports to the CEO. Cross-functional teams work together on projects and initiatives."
+  },
+  {
+    "question": "How do I find my manager?",
+    "answer": "Your manager will be assigned on your first day. Check your welcome email or contact HR for your reporting structure. Your manager will provide guidance, set goals, and conduct performance reviews."
+  },
+  {
+    "question": "What is the Engineering department structure?",
+    "answer": "Engineering is led by VP of Engineering Alex Thompson. Teams include Frontend, Backend, DevOps, QA, and Data Science. Each team has senior engineers, mid-level engineers, and junior developers."
+  },
+  {
+    "question": "What is the Sales department structure?",
+    "answer": "Sales is led by VP of Sales Maria Garcia. Teams include Enterprise Sales, SMB Sales, Sales Development, and Customer Success. Each team focuses on different customer segments and sales processes."
+  },
+  {
+    "question": "How do I collaborate with other departments?",
+    "answer": "Use company communication tools like Slack and email. Attend cross-functional meetings. Follow established processes for inter-departmental requests. Build relationships through company events and initiatives."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "answer": "ThinkNest Solutions has several key departments: Development Team (led by Ruturaj Patil), HR Team (led by Abhishek Kadam), Operations Team, Sales & Marketing Team, and Support & Customer Success Team. Each department plays a crucial role in our company's success.",
+    "question": "What departments are in ThinkNest Solutions?"
+  },
+  {
+    "answer": "The Development Team at ThinkNest Solutions is led by Ruturaj Patil. The team works on projects like ThinkNest App and Induction Chatbot, with roles including Frontend, Backend, and Fullstack developers. They follow Agile/Scrum methodology for project management.",
+    "question": "Who leads the Development Team?"
+  },
+  {
+    "answer": "The HR Team at ThinkNest Solutions is led by Abhishek Kadam. The team handles Employee Onboarding, Payroll Management, and includes roles like HR Manager, Recruiter, and Payroll Specialist. They manage recruitment, employee documentation, payroll processing, and employee engagement activities.",
+    "question": "Who leads the HR Team?"
+  },
+  {
+    "answer": "The Development Team at ThinkNest Solutions is responsible for building and maintaining software products, writing clean and optimized code, conducting code reviews and testing, and following Agile/Scrum methodology for project management. They work on projects like ThinkNest App and Induction Chatbot.",
+    "question": "What does the Development Team do?"
+  },
+  {
+    "answer": "The HR Team at ThinkNest Solutions handles recruitment and selection, employee documentation and records, payroll processing, employee engagement activities, and performance reviews. They ensure smooth employee onboarding and maintain all HR-related processes.",
+    "question": "What does the HR Team do?"
+  },
+  {
+    "answer": "The Operations Team at ThinkNest Solutions manages infrastructure, vendor management, office logistics and facilities, and provides support for internal tools and systems. They ensure smooth day-to-day operations of the company.",
+    "question": "What does the Operations Team do?"
+  },
+  {
+    "answer": "The Sales & Marketing Team at ThinkNest Solutions handles client acquisition and management, marketing campaigns and social media, brand promotion and outreach. They are responsible for growing the business and maintaining client relationships.",
+    "question": "What does the Sales & Marketing Team do?"
+  },
+  {
+    "answer": "The Support & Customer Success Team at ThinkNest Solutions responds to client queries, provides technical support, and focuses on client satisfaction and retention. They ensure our clients receive excellent service and support.",
+    "question": "What does the Support & Customer Success Team do?"
+  }
+]
